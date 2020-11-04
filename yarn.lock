@@ -5412,7 +5412,7 @@
     "lodash" "^4.17.11"
     "micromatch" "^3.1.10"
 
-"http-proxy@^1.17.0":
+"http-proxy@^1.17.0", "http-proxy@^1.18.1":
   "integrity" "sha512-7mz/721AbnJwIVbnaSv1Cz3Am0ZLT/UBwkC92VlxhXv/k/BBQfM2fXElQNC27BVGr0uwUpplYPQM9LnaBMR5NQ=="
   "resolved" "https://registry.npmjs.org/http-proxy/-/http-proxy-1.18.1.tgz"
   "version" "1.18.1"
@@ -7422,6 +7422,11 @@
   "integrity" "sha512-NuAESUOUMrlIXOfHKzD6bpPu3tYt3xvjNdRIQ+FeT0lNb4K8WR70CaDxhuNguS2XG+GjkyMwOzsN5ZktImfhLA=="
   "resolved" "https://registry.npmjs.org/object-keys/-/object-keys-1.1.1.tgz"
   "version" "1.1.1"
+
+"object-path@^0.11.5":
+  "integrity" "sha512-jgSbThcoR/s+XumvGMTMf81QVBmah+/Q7K7YduKeKVWL7N111unR2d6pZZarSk6kY/caeNxUDyxOvMWyzoU2eg=="
+  "resolved" "https://registry.npmjs.org/object-path/-/object-path-0.11.5.tgz"
+  "version" "0.11.5"
 
 "object-path@0.11.4":
   "integrity" "sha1-NwrnUvvzfePqcKhhwju6iRVpGUk="
@@ -9723,6 +9728,13 @@
   "integrity" "sha512-rs9OggEUF0V4jUSecXazOYsLfu7OGK2qIn3c7IPBiffz32XniEp/TX9Xmc9LQfK2nQ2QKHvZ2oygKUGU0lG4jQ=="
   "resolved" "https://registry.npmjs.org/serialize-javascript/-/serialize-javascript-2.1.2.tgz"
   "version" "2.1.2"
+
+"serialize-javascript@^3.1.0":
+  "integrity" "sha512-JIJT1DGiWmIKhzRsG91aS6Ze4sFUrYbltlkg2onR5OrnNM02Kl/hnY/T4FN2omvyeBbQmMJv+K4cPOpGzOTFBg=="
+  "resolved" "https://registry.npmjs.org/serialize-javascript/-/serialize-javascript-3.1.0.tgz"
+  "version" "3.1.0"
+  dependencies:
+    "randombytes" "^2.1.0"
 
 "serialize-javascript@^4.0.0":
   "integrity" "sha512-GaNA54380uFefWghODBWEGisLZFj00nS5ACs6yHa9nLqlLpVLO8ChDGeKRjZnV4Nh4n0Qi7nhYZD/9fCPzEqkw=="
